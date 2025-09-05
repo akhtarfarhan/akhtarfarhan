@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Machine Learning, Docker and exploring the Artificial Intelligence**
 
+- 💬 Ask me about **Artificial Intelligence and Machine Learning**
+
 - 📫 How to reach me **farhanakhtar0606@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
